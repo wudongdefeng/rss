@@ -32,9 +32,9 @@ type Post struct {
 
 var (
 	feeds = []string{
-		"https://themargins.substack.com/feed.xml",
-		"https://jvns.ca/atom.xml",
-		"https://joy.recurse.com/feed.atom",
+		"https://www.52pojie.cn/forum.php?mod=rss&fid=2",
+		"https://fuliba2020.net/feed",
+		"http://rsshub.ioiox.com/zaker/source/660",
 		"https://danluu.com/atom.xml",
 		"https://blog.veitheller.de/feed.rss",
 		"https://twobithistory.org/feed.xml",

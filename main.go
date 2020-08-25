@@ -36,6 +36,7 @@ var (
 		"https://fuliba2020.net/feed",
 		"https://hao.su/feed",
 		"https://rss.lilydjwg.me/zhihuzhuanlan/c_1085975047386050560",
+	        "https://link.rss.wiki/newrank/wechat/zhihuribao",	
 		
 		
 

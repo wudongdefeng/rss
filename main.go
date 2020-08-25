@@ -35,8 +35,8 @@ var (
 		"https://www.52pojie.cn/forum.php?mod=rss&fid=2",
 		"https://fuliba2020.net/feed",
 		"https://hao.su/feed",
-		"https://rsshub.app/zaker/source/660",
-		"https://rsshub.app/zhihu/daily",
+		"https://uneasy.win/rss/zaker/source/660",
+		"https://uneasy.win/rss/zhihu/daily",
 		
 
 		// My mum's food blog 💖

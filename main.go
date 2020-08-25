@@ -35,20 +35,14 @@ var (
 		"https://www.52pojie.cn/forum.php?mod=rss&fid=2",
 		"https://fuliba2020.net/feed",
 		"https://hao.su/feed",
-		"https://blog.veitheller.de/feed.rss",
-		"https://twobithistory.org/feed.xml",
-		"https://rachelbythebay.com/w/atom.xml",
-		"https://scattered-thoughts.net/rss.xml",
+		"https://rsshub.ioiox.com/zaker/source/660",
+		"https://rsshub.ioiox.com/zhihu/daily",
+		
 
 		// My mum's food blog 💖
-		"https://gochugarugirl.com/feed/",
+		
 
-		"https://commoncog.com/blog/rss/",
-		"https://highgrowthengineering.substack.com/feed",
-		"http://tonsky.me/blog/atom.xml",
-		"https://www.benkuhn.net/index.xml",
-
-		"https://hnrss.org/frontpage?points=100",
+		
 	}
 
 	// Show up to 60 days of posts

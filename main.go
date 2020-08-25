@@ -34,7 +34,6 @@ var (
 	feeds = []string{
 		"https://www.52pojie.cn/forum.php?mod=rss&fid=2",
 		"https://fuliba2020.net/feed",
-		"http://rsshub.ioiox.com/zaker/source/660",
 		"https://hao.su/feed",
 		"https://blog.veitheller.de/feed.rss",
 		"https://twobithistory.org/feed.xml",

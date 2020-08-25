@@ -35,8 +35,8 @@ var (
 		"https://www.52pojie.cn/forum.php?mod=rss&fid=2",
 		"https://fuliba2020.net/feed",
 		"https://hao.su/feed",
-		"https://uneasy.win/rss/zaker/source/660",
-		"https://uneasy.win/rss/zhihu/daily",
+		"https://rss.lilydjwg.me/zhihuzhuanlan/c_1085975047386050560",
+		
 		
 
 		// My mum's food blog 💖
@@ -153,7 +153,7 @@ func executeTemplate(writer io.Writer, templateData *TemplateData) error {
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>James Routley | Feed</title>
+		<title>舞动的风 | Feed</title>
 		<style>
 			@import url("https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap");
 
@@ -180,7 +180,7 @@ func executeTemplate(writer io.Writer, templateData *TemplateData) error {
 		</ol>
 
 		<footer>
-			<p><a href="https://github.com/jamesroutley/news.routley.io">What is this?</a></p>
+			<p><a href="https://github.com/wudongdefeng/wudongdefeng.github.io">What is this?</a></p>
 		</footer>
 	</body>
 </html>

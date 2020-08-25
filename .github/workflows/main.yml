@@ -35,22 +35,4 @@ jobs:
         commit_message: Build website (automatic)
         file_pattern: docs/index.html
   
-    - name: Clone source code 克隆源码
-      run: |
-        git clone https://github.com/wudongdefeng/wudongdefeng.github.io.git wudongdefeng.github.io    
-         
-        git clone https://gitee.com/wudongdefeng/rss.git ~/gitee
-        
-    - name: copy some list files 复制文件
-      run: |
-        echo "https://wudongdefeng:${{ secrets.mima }}@gitee.com">~/.git-credentials
-        cp ./docs/index.html ~/gitee/docs/index.html
-    - name: Commit files 提交文件
-      run: |
-        cd ~/gitee
-        git config --global credential.helper store
-        git config --local user.email "${{ secrets.youxiang }}"
-        git config --local user.name "wudongdefeng"
-        git add .
-        git commit -m "空投已送达" -a
-        git push -u origin master   
+    

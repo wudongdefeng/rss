@@ -35,9 +35,7 @@ var (
 		"https://www.52pojie.cn/forum.php?mod=rss&fid=2",
 		"https://fuliba2020.net/feed",
 		"https://hao.su/feed",
-		"https://rss.lilydjwg.me/zhihuzhuanlan/c_1085975047386050560",
-	        "https://link.rss.wiki/newrank/wechat/zhihuribao",	
-		
+		"https://rss.lilydjwg.me/zhihuzhuanlan/c_1085975047386050560",       		
 		
 
 		// My mum's food blog 💖

@@ -1,4 +1,4 @@
-module github.com/jamesroutley/news.routley.io
+module github.com/wudongdefeng/wudongdefeng.github.io
 
 go 1.13
 

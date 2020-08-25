@@ -36,7 +36,7 @@ var (
 		"https://fuliba2020.net/feed",
 		"http://rsshub.ioiox.com/zaker/source/660",
 		"https://hao.su/feed",
-		"https://rsshub.app/zhihu/daily",
+		"http://rsshub.ioiox.com/zhihu/daily",
 		"https://twobithistory.org/feed.xml",
 		"https://rachelbythebay.com/w/atom.xml",
 		"https://scattered-thoughts.net/rss.xml",

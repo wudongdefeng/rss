@@ -5,7 +5,7 @@ on:
     branches: [ master ]
   schedule:
     # Run every hour
-    - cron: '0 * * * 2023'
+    - cron: '0 0 1 12 *'
 
 jobs:
 
